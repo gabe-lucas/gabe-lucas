@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Gabriel 👋</h1>
 <h3 align="center">I’m an Avid Full Stack Engineer From Canada</h3>
 
-- 🔭 I’m currently working for [Parchment](https://parchment.com) to turn credentials into opportunities.
+- 🔭 I’m currently working at [Parchment](https://parchment.com) to turn credentials into opportunities.
 
 - 🌱 I’m expanding my knowledge of **Next.JS**.
 
