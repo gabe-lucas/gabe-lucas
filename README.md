@@ -5,7 +5,7 @@
 
 - 🌱 I’m expanding my knowledge of **Next.JS**.
 
-- 👯 I’m looking to collaborate on [Bunny Lounge](https://bunnylounge.app), a community driven app for [the best card game ever].(https://www.killerbunnies.com)
+- 👯 I’m looking to collaborate on [Bunny Lounge](https://bunnylounge.app), a community driven app for [the best card game ever](https://www.killerbunnies.com).
 
 - 👨‍💻 My featured projects can be located at [gabriellucas.dev](https://gabriellucas.dev).
 
